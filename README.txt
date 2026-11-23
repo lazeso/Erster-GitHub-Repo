@@ -1,0 +1,1 @@
+Hallo, das ist unsere erste Übung für Git.
